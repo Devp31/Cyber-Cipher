@@ -1,6 +1,6 @@
 # SecureCipher
 
-Hey there! 👋 Thanks for checking out **Secure Cipher**! I'm *Mubashir Shaikh* , the sole developer behind this project. 
+Hey there! 👋 Thanks for checking out **Secure Cipher**! I'm *DEV PATEL * , the sole developer behind this project. 
 
 As a bit of a cybersecurity nut myself, I wanted to create a tool that prioritizes user privacy and security. 
 With Secure Cipher, you can encrypt and decrypt text/files, hide messages using steganography, and manage your passwords securely. 
